@@ -110,3 +110,5 @@ const styles = StyleSheet.create({
 });
 
 export default App;
+
+// https://www.youtube.com/watch?v=hXDMWeD0ERM
